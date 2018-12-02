@@ -1,0 +1,11 @@
+# Node modules
+node_modules
+
+# Coverage report
+coverage
+
+# package-lock
+package-lock.json
+
+# Testing files
+*.srt

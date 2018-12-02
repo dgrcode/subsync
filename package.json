@@ -1,0 +1,19 @@
+{
+  "name": "subsync",
+  "version": "1.0.0",
+  "description": "Tool to sync subtitles",
+  "main": "subs.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watch --verbose"
+  },
+  "keywords": [
+    "subtitle",
+    "sync"
+  ],
+  "author": "Daniel Gonzalez Reina <dangonrei@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
